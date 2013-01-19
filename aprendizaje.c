@@ -68,7 +68,6 @@ main()
 	strcpy(textoprueba, "holahola");
 	printf("El texto esta en la direccion %u\n", textoprueba);
         
-
 }
 
 
