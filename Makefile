@@ -16,7 +16,7 @@ CLIBS = -lndos -lmalloc
 COBJS = aprendizaje.o 
 
 # los programas C 
-CSRC = aprendizaje.c consola.c 
+CSRC = aprendizaje.c consola.c memoria.c sysvars.c
 
 # el ejecutable final
 COUT = aprendizaje.bin
