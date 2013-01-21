@@ -7,7 +7,7 @@
 
 # compilador y sus parametros
 CC = zcc
-CFLAGS = +zxansi -O2 -create-app 
+CFLAGS = +zx -O2 -create-app 
 
 #librerias a usar
 CLIBS = -lndos -lmalloc 
