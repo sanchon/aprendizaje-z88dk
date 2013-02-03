@@ -27,8 +27,6 @@ long heap; //hay que declarar el heap al más alto nivel
 main()
 {
 
-	
-
         salidaPorConsola(); 
 
 	reservarMemoria();
