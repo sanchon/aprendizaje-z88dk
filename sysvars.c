@@ -1,3 +1,6 @@
+//=====================================
+//Variables del Sistema del ZX Spectrum
+//=====================================
 
 unsigned int *udg_ptr = 23675;    //primer UserDefinedGraphic (lo ultimo que hay en la memoria)
 unsigned int *p_ramt_ptr = 23732; //el mayor byte (absoluto) de la memoria
